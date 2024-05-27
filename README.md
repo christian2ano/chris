@@ -1,7 +1,7 @@
 # chris
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é nome sobrenome
+Meu nome é Christian Faria
 
 Estou estudando na Alura
 
